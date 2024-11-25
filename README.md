@@ -5,7 +5,8 @@
 - 📫 How to reach me: Just be friendly with me :D
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 14 years old, I can't concentrate properly on things and I'm not very good at English, I'm Brazilian.
--I am just trying to start projects on programming because, I like so much this, and I am try to grow up in my life and be a next (or very close) Tony Stark (yeah, this is strange, but, I dont care)
+- 
+- I am just trying to start projects on programming because, I like so much this, and I am try to grow up in my life and be a next (or very close) Tony Stark (yeah, this is strange, but, I dont care)
 
 <!---
 GMKS-Stark/GMKS-Stark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
